@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://fine-go.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2020 16:25:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://fine-go.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>my_first_blog</title>
+      <link>https://fine-go.github.io/post/blog/</link>
+      <pubDate>Mon, 02 Mar 2020 16:25:13 +0800</pubDate>
+      
+      <guid>https://fine-go.github.io/post/blog/</guid>
+      <description>我的第一个博客 &amp;ldquo;/n&amp;rdquo;——关于markdown格式的简单学习 有序列表  关于标题  标题是从一到六，形式服从html的格式
+ 标题的的定义方法多样，我自己习惯于用&amp;rdquo;#&amp;ldquo;代表级数来表示标题
+   关于列表  无序列表用*号定义
+ 有序列表用数字标号，其中标号所展示的是从第一项列表所开始递增的
+ 注意列表下面的子元素必须注意缩进要和列表标题对齐
+  &amp;gt;此时展示的顺序就是3 4 5
+ 关于区块引用  引用用 &amp;lt; 定以 不同的级别的引用可以用不同数量的 &amp;lt; 来表示  关于链接和图片  常用的有行内式和参数式 行内式
+ []() 链接
+ ![][] 图片地址，(其中地址可以是在线也可以是本地的采用迂回的方式)
+ 注意中间不要空格
+   参数式
+ 把链接或者是图片的地址当做参数，使用与多次使用同一个链接或者是图片的场景    注意 ：在图片前要用！，图片的根目录是相当于以static为根目录写全路径
+  关于代码框  单行代码用&amp;rdquo;
+ 多行用&amp;rdquo;&amp;rsquo; 代码 &amp;ldquo;&amp;lsquo;的形式
+   强调  可以用 要倾斜的字 的形式来倾斜字体</description>
+    </item>
+    
+  </channel>
+</rss>
